@@ -1,0 +1,162 @@
+body{
+	background-image:url(16.jpg)
+}
+#text{
+	background-color:#000000;
+	color:#FFFFFF;
+	padding: 10px;
+	opacity: 0.9;
+	border: 10px solid gray;
+	border-radius: 86px;
+}
+#vvedenie{
+	opacity:0.8;
+	color:#FFFFFF;
+	font-size:90;
+}
+#storyi{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+			#storyi:hover{
+			opacity:1;
+			}
+
+#story2{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+			#story2:hover{
+			opacity:1;
+			}
+#story3{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story3:hover{
+			opacity:1;
+			}
+
+#story4{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story4:hover{
+			opacity:1;
+			}
+#story5{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story5:hover{
+			opacity:1;
+			}
+#story6{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story6:hover{
+			opacity:1;
+			}
+#story7{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story7:hover{
+			opacity:1;
+			}
+#story8{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story8:hover{
+			opacity:1;
+			}
+#story9{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story9:hover{
+			opacity:1;
+			}
+#story10{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story10:hover{
+			opacity:1;
+			}
+#story11{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story11:hover{
+			opacity:1;
+			}
+#story12{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story12:hover{
+			opacity:1;
+			}
+#story13{
+	opacity:0.6;
+	color:#FFFFFF;
+}#story13:hover{
+			opacity:1;
+			}
+#story14{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story14:hover{
+			opacity:1;
+			}
+#story15{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story15:hover{
+			opacity:1;
+			}
+#story16{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story16:hover{
+			opacity:1;
+			}
+#story17{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story17:hover{
+			opacity:1;
+			}
+#story18{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story18:hover{
+			opacity:1;
+			}
+#story19{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story19:hover{
+			opacity:1;
+			}
+#story20{
+	opacity:0.6;
+	color:#FFFFFF;
+}
+#story20:hover{
+			opacity:1;
+			}
+
+			a{
+				color:white;
+			}
+	
